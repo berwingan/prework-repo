@@ -1,13 +1,13 @@
 //
-//  PrewordUITests.swift
-//  PrewordUITests
+//  Tip_CalculatorUITests.swift
+//  Tip CalculatorUITests
 //
-//  Created by Berwin Gan on 18/08/2021.
+//  Created by Berwin Gan on 19/08/2021.
 //
 
 import XCTest
 
-class PrewordUITests: XCTestCase {
+class Tip_CalculatorUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

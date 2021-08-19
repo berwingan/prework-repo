@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Preword
+//  Tip Calculator
 //
-//  Created by Berwin Gan on 18/08/2021.
+//  Created by Berwin Gan on 19/08/2021.
 //
 
 import UIKit
